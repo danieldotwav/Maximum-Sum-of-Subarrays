@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Maximum Sum of Subarrays", "Maximum Sum of Subarrays.vcxproj", "{E584302F-9A83-43C1-828E-AE5BC122734A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E584302F-9A83-43C1-828E-AE5BC122734A}.Debug|x64.ActiveCfg = Debug|x64
+		{E584302F-9A83-43C1-828E-AE5BC122734A}.Debug|x64.Build.0 = Debug|x64
+		{E584302F-9A83-43C1-828E-AE5BC122734A}.Debug|x86.ActiveCfg = Debug|Win32
+		{E584302F-9A83-43C1-828E-AE5BC122734A}.Debug|x86.Build.0 = Debug|Win32
+		{E584302F-9A83-43C1-828E-AE5BC122734A}.Release|x64.ActiveCfg = Release|x64
+		{E584302F-9A83-43C1-828E-AE5BC122734A}.Release|x64.Build.0 = Release|x64
+		{E584302F-9A83-43C1-828E-AE5BC122734A}.Release|x86.ActiveCfg = Release|Win32
+		{E584302F-9A83-43C1-828E-AE5BC122734A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D78F3B00-CC51-42E6-88F0-049C291D47EF}
+	EndGlobalSection
+EndGlobal
